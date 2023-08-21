@@ -15,9 +15,9 @@ Tech Stacks used:
 1. Data Scrapping - Beautiful Soup
 2. Data Cleaning - Pandas, Google Sheets
 3. Database Management -> MySQL
-4. Front End -> HTML, CSS
+4. Front End -> HTML, CSS, JavaScript (Graph.js)
 5. Back End -> Node.js with Express.js
-6. Templating Engine -> EJS
+7. Templating Engine -> EJS
 
 PS: MVC Architecture is used for file system
 
